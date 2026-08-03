@@ -1,0 +1,123 @@
+ INFO  Accepting connections at http://localhost:8811
+ HTTP  03/08/2026 10:43:17 ::1 HEAD /index.html
+ HTTP  03/08/2026 10:43:17 ::1 Returned 301 in 56 ms
+ HTTP  03/08/2026 10:43:26 ::1 GET /index.html
+ HTTP  03/08/2026 10:43:26 ::1 Returned 301 in 1 ms
+ HTTP  03/08/2026 10:43:26 ::1 GET /index
+ HTTP  03/08/2026 10:43:26 ::1 Returned 301 in 1 ms
+ HTTP  03/08/2026 10:43:26 ::1 GET /
+ HTTP  03/08/2026 10:43:26 ::1 Returned 200 in 12 ms
+ HTTP  03/08/2026 10:43:26 ::1 GET /logo-rmartins.png
+ HTTP  03/08/2026 10:43:26 ::1 GET /bgmobricardomartins-new.png
+ HTTP  03/08/2026 10:43:26 ::1 Returned 200 in 6 ms
+ HTTP  03/08/2026 10:43:26 ::1 Returned 200 in 10 ms
+ HTTP  03/08/2026 10:43:26 ::1 GET /perfildrricardo.png
+ HTTP  03/08/2026 10:43:26 ::1 Returned 200 in 4 ms
+ HTTP  03/08/2026 10:43:26 ::1 GET /assets/dr-ricardo-sobremim.png
+ HTTP  03/08/2026 10:43:26 ::1 Returned 200 in 5 ms
+ HTTP  03/08/2026 10:43:26 ::1 GET /assets/dr-ricardo-surgery.png
+ HTTP  03/08/2026 10:43:26 ::1 GET /assets/dr-ricardo-kid.png
+ HTTP  03/08/2026 10:43:26 ::1 Returned 200 in 5 ms
+ HTTP  03/08/2026 10:43:26 ::1 GET /assets/dr-ricardo-abracando.png
+ HTTP  03/08/2026 10:43:26 ::1 Returned 200 in 6 ms
+ HTTP  03/08/2026 10:43:26 ::1 Returned 200 in 8 ms
+ HTTP  03/08/2026 10:43:26 ::1 GET /assets/consultorio1.png
+ HTTP  03/08/2026 10:43:26 ::1 Returned 200 in 4 ms
+ HTTP  03/08/2026 10:43:26 ::1 GET /assets/consultorio2.png
+ HTTP  03/08/2026 10:43:26 ::1 Returned 200 in 7 ms
+ HTTP  03/08/2026 10:43:26 ::1 GET /assets/consultorio3.png
+ HTTP  03/08/2026 10:43:26 ::1 Returned 200 in 3 ms
+ HTTP  03/08/2026 10:43:26 ::1 GET /bgdesktop-ricardomartins.png
+ HTTP  03/08/2026 10:43:26 ::1 Returned 200 in 13 ms
+ HTTP  03/08/2026 10:43:28 ::1 GET /favicon.ico
+ HTTP  03/08/2026 10:43:28 ::1 Returned 404 in 7 ms
+ HTTP  03/08/2026 10:44:34 ::1 GET /index.html
+ HTTP  03/08/2026 10:44:34 ::1 Returned 301 in 1 ms
+ HTTP  03/08/2026 10:44:34 ::1 GET /index
+ HTTP  03/08/2026 10:44:34 ::1 Returned 301 in 1 ms
+ HTTP  03/08/2026 10:44:34 ::1 GET /
+ HTTP  03/08/2026 10:44:34 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:44:35 ::1 GET /logo-rmartins.png
+ HTTP  03/08/2026 10:44:35 ::1 GET /bgmobricardomartins-new.png
+ HTTP  03/08/2026 10:44:35 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:44:35 ::1 Returned 200 in 1 ms
+ HTTP  03/08/2026 10:44:35 ::1 GET /perfildrricardo.png
+ HTTP  03/08/2026 10:44:35 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:44:35 ::1 GET /assets/dr-ricardo-sobremim.png
+ HTTP  03/08/2026 10:44:35 ::1 Returned 200 in 1 ms
+ HTTP  03/08/2026 10:44:35 ::1 GET /assets/dr-ricardo-abracando.png
+ HTTP  03/08/2026 10:44:35 ::1 GET /assets/dr-ricardo-surgery.png
+ HTTP  03/08/2026 10:44:35 ::1 GET /assets/dr-ricardo-kid.png
+ HTTP  03/08/2026 10:44:35 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:44:35 ::1 Returned 200 in 1 ms
+ HTTP  03/08/2026 10:44:35 ::1 GET /bgdesktop-ricardomartins.png
+ HTTP  03/08/2026 10:44:35 ::1 Returned 200 in 1 ms
+ HTTP  03/08/2026 10:44:35 ::1 Returned 200 in 3 ms
+ HTTP  03/08/2026 10:44:35 ::1 GET /assets/consultorio1.png
+ HTTP  03/08/2026 10:44:35 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:44:35 ::1 GET /assets/consultorio2.png
+ HTTP  03/08/2026 10:44:35 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:44:35 ::1 GET /assets/consultorio3.png
+ HTTP  03/08/2026 10:44:35 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:44:36 ::1 GET /favicon.ico
+ HTTP  03/08/2026 10:44:36 ::1 Returned 404 in 3 ms
+ HTTP  03/08/2026 10:46:07 ::1 GET /index.html
+ HTTP  03/08/2026 10:46:07 ::1 Returned 301 in 1 ms
+ HTTP  03/08/2026 10:46:07 ::1 GET /index
+ HTTP  03/08/2026 10:46:07 ::1 Returned 301 in 0 ms
+ HTTP  03/08/2026 10:46:07 ::1 GET /
+ HTTP  03/08/2026 10:46:07 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:46:07 ::1 GET /bgmobricardomartins-new.png
+ HTTP  03/08/2026 10:46:07 ::1 GET /logo-rmartins.png
+ HTTP  03/08/2026 10:46:07 ::1 Returned 200 in 1 ms
+ HTTP  03/08/2026 10:46:07 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:46:07 ::1 GET /perfildrricardo.png
+ HTTP  03/08/2026 10:46:07 ::1 Returned 200 in 1 ms
+ HTTP  03/08/2026 10:46:07 ::1 GET /assets/dr-ricardo-sobremim.png
+ HTTP  03/08/2026 10:46:07 ::1 Returned 200 in 1 ms
+ HTTP  03/08/2026 10:46:07 ::1 GET /assets/dr-ricardo-abracando.png
+ HTTP  03/08/2026 10:46:07 ::1 GET /assets/dr-ricardo-surgery.png
+ HTTP  03/08/2026 10:46:07 ::1 GET /assets/dr-ricardo-kid.png
+ HTTP  03/08/2026 10:46:07 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:46:07 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:46:07 ::1 Returned 200 in 1 ms
+ HTTP  03/08/2026 10:46:07 ::1 GET /bgdesktop-ricardomartins.png
+ HTTP  03/08/2026 10:46:07 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:46:07 ::1 GET /assets/consultorio1.png
+ HTTP  03/08/2026 10:46:07 ::1 Returned 200 in 1 ms
+ HTTP  03/08/2026 10:46:07 ::1 GET /assets/consultorio2.png
+ HTTP  03/08/2026 10:46:07 ::1 Returned 200 in 1 ms
+ HTTP  03/08/2026 10:46:07 ::1 GET /assets/consultorio3.png
+ HTTP  03/08/2026 10:46:07 ::1 Returned 200 in 1 ms
+ HTTP  03/08/2026 10:46:08 ::1 GET /favicon.ico
+ HTTP  03/08/2026 10:46:08 ::1 Returned 404 in 3 ms
+ HTTP  03/08/2026 10:46:56 ::1 GET /index.html
+ HTTP  03/08/2026 10:46:56 ::1 Returned 301 in 1 ms
+ HTTP  03/08/2026 10:46:56 ::1 GET /index
+ HTTP  03/08/2026 10:46:56 ::1 Returned 301 in 1 ms
+ HTTP  03/08/2026 10:46:56 ::1 GET /
+ HTTP  03/08/2026 10:46:56 ::1 Returned 200 in 3 ms
+ HTTP  03/08/2026 10:46:56 ::1 GET /bgmobricardomartins-new.png
+ HTTP  03/08/2026 10:46:56 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:46:56 ::1 GET /logo-rmartins.png
+ HTTP  03/08/2026 10:46:56 ::1 Returned 200 in 1 ms
+ HTTP  03/08/2026 10:46:57 ::1 GET /perfildrricardo.png
+ HTTP  03/08/2026 10:46:57 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:46:57 ::1 GET /assets/dr-ricardo-sobremim.png
+ HTTP  03/08/2026 10:46:57 ::1 Returned 200 in 1 ms
+ HTTP  03/08/2026 10:46:57 ::1 GET /assets/dr-ricardo-surgery.png
+ HTTP  03/08/2026 10:46:57 ::1 Returned 200 in 1 ms
+ HTTP  03/08/2026 10:46:57 ::1 GET /assets/dr-ricardo-kid.png
+ HTTP  03/08/2026 10:46:57 ::1 GET /assets/dr-ricardo-abracando.png
+ HTTP  03/08/2026 10:46:57 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:46:57 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:46:57 ::1 GET /bgdesktop-ricardomartins.png
+ HTTP  03/08/2026 10:46:57 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:46:57 ::1 GET /assets/consultorio1.png
+ HTTP  03/08/2026 10:46:57 ::1 Returned 200 in 1 ms
+ HTTP  03/08/2026 10:46:57 ::1 GET /assets/consultorio2.png
+ HTTP  03/08/2026 10:46:57 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:46:57 ::1 GET /assets/consultorio3.png
+ HTTP  03/08/2026 10:46:57 ::1 Returned 200 in 2 ms
+ HTTP  03/08/2026 10:46:58 ::1 GET /favicon.ico
+ HTTP  03/08/2026 10:46:58 ::1 Returned 404 in 3 ms
