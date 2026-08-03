@@ -301,18 +301,14 @@ h1,h2,h3,h4{font-family:var(--display);font-weight:400;line-height:1.12;letter-s
 
 .about-float{
   position:absolute;width:132px;aspect-ratio:4/5;border-radius:3px;overflow:hidden;
-  box-shadow:0 22px 44px rgba(17,18,20,.22);border:5px solid var(--paper);z-index:2;
+  box-shadow:0 22px 44px rgba(17,18,20,.22);border:1px solid var(--paper);z-index:2;
   animation:aboutFloat 6s ease-in-out infinite;
-  opacity:1!important;transform:none!important;
 }
 .about-float img{width:100%;height:100%;object-fit:cover;filter:grayscale(.15) contrast(1.03);}
-.about-float.f1{top:-6%;right:-6%;width:150px;animation-delay:.2s;}
-.about-float.f2{left:-56px;top:6%;width:110px;animation-delay:1.4s;}
-.about-float.f3{bottom:6%;right:-32px;width:126px;animation-delay:2.6s;}
-@keyframes aboutFloat{
-  0%,100%{transform:translateY(0);}
-  50%{transform:translateY(-14px);}
-}
+.about-float.f1{top:-8%;right:-3%;width:180px;animation-delay:.2s;}
+.about-float.f2{left:-84px;top:20%;width:160px;animation-delay:1.4s;}
+.about-float.f3{bottom:2%;right:-28px;width:180px;animation-delay:2.6s;}
+
 @media (prefers-reduced-motion: reduce){
   .about-float{animation:none;}
 }
@@ -538,10 +534,10 @@ h1,h2,h3,h4{font-family:var(--display);font-weight:400;line-height:1.12;letter-s
   .about-photo::after{display:none;}
   .about-photo{padding:0 20px 34px 0;}
   .about-badge{position:static;margin-top:16px;display:inline-block;}
-  .about-float{width:92px!important;}
+  .about-float{width:118px!important;}
   .about-float.f1{right:-4%;}
-  .about-float.f2{left:-14px;}
-  .about-float.f3{right:2%;}
+  .about-float.f2{left:-18px;}
+  .about-float.f3{right:-2%;}
   .book-card{padding:36px 26px;}
   .footer-grid{grid-template-columns:1fr;gap:34px;}
   .section-head{margin-bottom:44px;}
@@ -731,7 +727,7 @@ h1,h2,h3,h4{font-family:var(--display);font-weight:400;line-height:1.12;letter-s
   <div class="wrap">
     <div class="section-head center">
       <div class="eyebrow center reveal">Resultados de pacientes</div>
-      <h2 class="reveal">Sorrisos que continuam parecendo naturais anos depois</h2>
+      <h2 class="reveal">Procedimentos que transformaram vidas</h2>
       <p class="reveal">Todos os casos abaixo foram tratados no consultório e fotografados com autorização. Nenhuma imagem passou por edição do sorriso, porque o resultado precisa se sustentar sem ajuda de filtro.</p>
     </div>
 
@@ -801,7 +797,7 @@ h1,h2,h3,h4{font-family:var(--display);font-weight:400;line-height:1.12;letter-s
   <div class="wrap">
     <div class="section-head center">
       <div class="eyebrow center reveal">Depoimentos</div>
-      <h2 class="reveal">A parte que a fotografia não mostra</h2>
+      <h2 class="reveal">O que dizem os pacientes</h2>
       <p class="reveal">O resultado técnico aparece na imagem. O que vem depois, a vontade de sorrir sem pensar antes, quem conta são as pessoas que passaram por aqui.</p>
     </div>
 
